@@ -9,5 +9,5 @@ wget gh05t-hunter5.github.io/Basic-Installation-Termux/NetHunter/NetHunter && ch
 ### Metasploit Installation
 
 ```
-wget gh05t-hunter5.github.io/Basic-Installation-Termux/NetHunter/Metasploit && chmod +x Metasploit && ./Metasploit
+wget gh05t-hunter5.github.io/Basic-Installation-Termux/Metasploit/Metasploit && chmod +x Metasploit && ./Metasploit
 ```
