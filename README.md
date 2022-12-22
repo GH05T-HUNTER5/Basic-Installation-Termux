@@ -15,7 +15,7 @@ wget gh05t-hunter5.github.io/Basic-Installation-Termux/Metasploit/Metasploit && 
 ### MyPass Installation
 
 ```
-wget gh05t-hunter5.github.io/Basic-Installation-Termux/MyPass/MyPass && chmod +x MyPass && ./MyPass
+wget gh05t-hunter5.github.io/Basic-Installation-Termux/MyPass/MyPass && chmod +x MyPass && ./MyPass --help
 ```
 
 #### Disclaimer 
