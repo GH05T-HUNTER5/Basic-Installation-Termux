@@ -12,6 +12,11 @@ wget gh05t-hunter5.github.io/Basic-Installation-Termux/NetHunter/NetHunter && ch
 wget gh05t-hunter5.github.io/Basic-Installation-Termux/Metasploit/Metasploit && chmod +x Metasploit && ./Metasploit
 ```
 
+### MyPass Installation
+
+```
+wget gh05t-hunter5.github.io/Basic-Installation-Termux/MyPass/MyPass && chmod +x MyPass && ./MyPass
+```
 
 #### Disclaimer 
 
