@@ -21,7 +21,7 @@ wget gh05t-hunter5.github.io/Basic-Installation-Termux/MyPass/MyPass && chmod +x
 ### Android PIN Bruteforce
 
 ```
-wget gh05t-hunter5.github.io/Basic-Installation-Termux/Extract-Tools/Android-PIN && chmod +x Android-PIN && ./Android-PIN
+wget gh05t-hunter5.github.io/Basic-Installation-Termux/Extract-Tools/Android-Pin && chmod +x Android-Pin && ./Android-Pin
 ```
 
 #### Disclaimer 
