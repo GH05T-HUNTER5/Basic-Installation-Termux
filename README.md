@@ -18,6 +18,12 @@ wget gh05t-hunter5.github.io/Basic-Installation-Termux/Metasploit/Metasploit && 
 wget gh05t-hunter5.github.io/Basic-Installation-Termux/MyPass/MyPass && chmod +x MyPass && ./MyPass --help
 ```
 
+### Android PIN Bruteforce
+
+```
+wget gh05t-hunter5.github.io/Basic-Installation-Termux/Extract-Tools/Android-PIN && chmod +x Android-PIN && ./Android-PIN
+```
+
 #### Disclaimer 
 
 ```
