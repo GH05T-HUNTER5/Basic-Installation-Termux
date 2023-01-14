@@ -24,6 +24,12 @@ wget gh05t-hunter5.github.io/Basic-Installation-Termux/MyPass/MyPass && chmod +x
 wget gh05t-hunter5.github.io/Basic-Installation-Termux/Extract-Tools/Android-Pin && chmod +x Android-Pin && ./Android-Pin
 ```
 
+### Termux Storage Backup
+
+```
+wget http://gh05t-hunter5.github.io/Basic-Installation-Termux/Free-Storage/Free-Storage.sh && chmod +x Free-Storage.sh && ./Free-Storage.sh
+```
+
 #### Disclaimer 
 
 ```
