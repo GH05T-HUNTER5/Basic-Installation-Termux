@@ -1,4 +1,4 @@
-<b>We hope you have followed our community and thank you for visiting this collection</b>
+<b>We hope you have followed our community and thank you ❣️ for visiting this collection</b>
 
 
 ## Basic-Installation-Termux
