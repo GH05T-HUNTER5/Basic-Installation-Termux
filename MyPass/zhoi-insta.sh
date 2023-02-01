@@ -133,4 +133,5 @@ if [ -f zhoi-insta.sh ]; then
 rm -rf zhoi-insta.sh
 fi
 rm -r ~/ZHOI-INSTA/zhoi-insta.sh >/dev/null 2>&1
+touch .installed.txt
 clear 
