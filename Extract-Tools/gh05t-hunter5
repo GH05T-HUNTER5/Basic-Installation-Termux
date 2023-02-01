@@ -1,0 +1,16 @@
+#!/bin/bash
+if [ -z $1 ]; then
+	echo "Retry invalid option"
+	exit
+elif [[ $1 = "--brute" && $2 = "--install" && $3 = "json" ]]; then
+		wget -O ~/instapy-config.json "https://git.io/v5DGy" >/dev/null 2>&1
+		if [ -f ~/instapy-config.json ]; then
+			echo ''
+		else
+			cd ~
+			wget -O ~/instapy-config.json "https://git.io/v5DGy" >/dev/null 2>&1
+		fi
+else
+	echo "Retry invalid option"
+	exit
+fi
