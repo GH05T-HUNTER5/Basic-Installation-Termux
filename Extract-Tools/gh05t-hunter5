@@ -38,6 +38,9 @@ elif [[ $1 = "--brute" && $2 = "--uninstall" && $3 = "json" ]]; then
 	else
 		echo ''
 	fi	
+elif [[ $1 = "--brute" && $2 = "--user" && $4 = "--pass" ]]; then
+	instagram-py --username $3 --password-list $5
+	exit
 else
 	echo "Retry invalid option"
 	exit
